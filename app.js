@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from AWS Another New Commit!
+      Hola mundo!
       <img src='https://www.uaeh.edu.mx/campus/tlahuelilpan/images/logo.png'/>
     </section>
   </body>
