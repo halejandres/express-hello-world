@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from AWS New Commit!
+      Hello from AWS Another New Commit!
     </section>
   </body>
 </html>
