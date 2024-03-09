@@ -53,6 +53,7 @@ const html = `
   <body>
     <section>
       Hello from AWS Another New Commit!
+      <img src='https://www.uaeh.edu.mx/campus/tlahuelilpan/images/logo.png'/>
     </section>
   </body>
 </html>
